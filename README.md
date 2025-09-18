@@ -1,6 +1,6 @@
-# TripSmart Bot – Automated Travel Cost Reply
+# TravelQuoteBot – Automated Travel Cost Reply
 
-This project automates the **“TripSmart Bot”** process for handling travel requests in the **Customer Service / Sales Department of a Tourist Company**.  
+This project automates the **“TravelQuoteBot”** process for handling travel requests in the **Customer Service / Sales Department of a Tourist Company**.  
 Using **UiPath**, the robot collects customer requests, calculates estimated travel costs from predefined data, and automatically replies via email with a personalized trip summary.
 
 ---
